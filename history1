@@ -1,0 +1,26 @@
+  490  pwd
+  491  ll
+  492  cd git/
+  493  git clone https://github.com/ashot6789/ashotbranch1.git
+  494  nano author
+  495  git add .
+  496  ll
+  497  nano author
+  498  ll
+  499  git add .
+  500  git status
+  501  cd ashotbranch1/
+  502  nano author
+  503  git add .
+  504  git commit -m "add one file"
+  505  git push
+  506  ssh-keygen 
+  507  ll /home/ashot/.ssh/id_rsa.pub
+  508  cat /home/ashot/.ssh/id_rsa.pub
+  509  git push git@github.com:ashot6789/ashotbranch1.git
+  510  git branch branch2
+  511  git branch
+  512  git checkout branch2 
+  513  git checkout
+  514  git branch
+  515  history > history1
