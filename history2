@@ -1,0 +1,79 @@
+  490  pwd
+  491  ll
+  492  cd git/
+  493  git clone https://github.com/ashot6789/ashotbranch1.git
+  494  nano author
+  495  git add .
+  496  ll
+  497  nano author
+  498  ll
+  499  git add .
+  500  git status
+  501  cd ashotbranch1/
+  502  nano author
+  503  git add .
+  504  git commit -m "add one file"
+  505  git push
+  506  ssh-keygen 
+  507  ll /home/ashot/.ssh/id_rsa.pub
+  508  cat /home/ashot/.ssh/id_rsa.pub
+  509  git push git@github.com:ashot6789/ashotbranch1.git
+  510  git branch branch2
+  511  git branch
+  512  git checkout branch2 
+  513  git checkout
+  514  git branch
+  515  history > history1
+  516  ll
+  517  git checkout master 
+  518  git branch
+  519  git merge branch2 
+  520  git checkout branch2 
+  521  git add .
+  522  git commit -m "add history1 file"
+  523  git checkout master 
+  524  git merge branch2 
+  525  git push 
+  526  git push git@github.com:ashot6789/ashotbranch1.git
+  527  git push -u origin branch2 git@github.com:ashot6789/ashotbranch1.git
+  528  git push -u origin branch2
+  529  git push -u origin branch2 git@github.com:ashot6789/ashotbranch1.git
+  530  git status
+  531  git branch 
+  532  git add .
+  533  git commit 
+  534  git push -u origin master git@github.com:ashot6789/ashotbranch1.git
+  535  git branch 
+  536  git add .
+  537  git commit 
+  538  touch readme
+  539  git add .
+  540  git commit 
+  541  git push -u origin branch2  git@github.com:ashot6789/ashotbranch1.git
+  542  git checkout branch2 
+  543  git push -u origin branch2  git@github.com:ashot6789/ashotbranch1.git
+  544  git remote add origin git@github.com:ashot6789/ashotbranch1.git
+  545  git remote add origin br git@github.com:ashot6789/ashotbranch1.git
+  546  git push -u origin branch2  git@github.com:ashot6789/ashotbranch1.git
+  547  git checkout branch2 
+  548  git commit 
+  549  git push -f -u origin branch2  git@github.com:ashot6789/ashotbranch1.git
+  550  git show
+  551  git show-branch 
+  552  git branch 
+  553  git checkout master
+  554  git checkout branch2 
+  555  nano readme
+  556  git add .
+  557  git commit -m "readme"
+  558  git push -u origin branch2  git@github.com:ashot6789/ashotbranch1.git
+  559  git push -u origin master  git@github.com:ashot6789/ashotbranch1.git
+  560  git push -u origin master 
+  561  git push -u origin branch2  https://github.com/ashot6789/ashotbranch1.git
+  562  git push https://github.com/ashot6789/ashotbranch1.git
+  563  git push git@github.com:ashot6789/ashotbranch1.git
+  564  git push -u origin branch2   git@github.com:ashot6789/ashotbranch1.git
+  565  git branch 
+  566  git branch branch3
+  567  git checkout branch3 
+  568  history >history2
